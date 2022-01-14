@@ -8,7 +8,7 @@
 #Functionality<br>
 -Based on a list of task with assigned users, when a new task is given, recommend a user;<br><br>
 
-#Note:
+#Note:<br>
 -This version is not finished, there are multiple <br> 
 functions that are not cleaned and there is a lot that <br>
 of stuff that can be done better; <br>
